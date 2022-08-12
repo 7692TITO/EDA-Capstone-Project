@@ -19,6 +19,7 @@ Initially, we mounted our drive into Collab notebook and using pandas library we
 Thereafter, we have used various data wrangling techniques and different data visualization plots to get insight into our dataset and tried to come up with useful conclusions for various exploratory data analysis problems. 
 
 Some of our important conclusions and results from our exploratory data analysis were as follows
+
 •	Nearly 60% of guests prefer City Hotel and only 40% of guests prefer Resort Hotel while booking.
 •	Most of the customers come in the month of August and we can see the least customers in December
 •	Most bookings are done by couples. Hence providing good deals for couples can increase the number of bookings
