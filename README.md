@@ -1,5 +1,5 @@
-# EDA-CAPSTONE-PROJECT
-HOTEL BOOKING ANALYSIS
+# Hotel Booking Exploratory Data Analysis 
+
 
 In this Capstone Project on Exploratory data analysis, the prime aim has been to understand all the key concepts taught in python modules and to use the tools like python coding, pandas libraries and data visualization libraries in order to extract, analyze and to get insight into the given hotel bookings csv dataset from the timeline 2015-2017. 
 
